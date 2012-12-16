@@ -1,4 +1,4 @@
-(defproject bpng "0.1.0-SNAPSHOT"
+(defproject lib-noir-issue "0.1.0-SNAPSHOT"
   :description "Demo for issue with lib-noir"
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [ring "1.1.6"]
